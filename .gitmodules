@@ -1,0 +1,9 @@
+[submodule "Substrate-Repo"]
+	path = Substrate-Repo
+	url = https://github.com/Safieddine90/Substrate-Repo.git
+[submodule "Clarity-Repo"]
+	path = Clarity-Repo
+	url = https://github.com/Safieddine90/Clarity-Repo.git
+[submodule "Rust-Udemy-Repo"]
+	path = Rust-Udemy-Repo
+	url = https://github.com/Safieddine90/Rust-Udemy-Repo.git
