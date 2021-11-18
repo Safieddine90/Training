@@ -7,3 +7,9 @@
 [submodule "Rust-Udemy-Repo"]
 	path = Rust-Udemy-Repo
 	url = https://github.com/Safieddine90/Rust-Udemy-Repo.git
+[submodule "substrate-front-end-template"]
+	path = substrate-front-end-template
+	url = https://github.com/Safieddine90/substrate-front-end-template.git
+[submodule "Algocasts"]
+	path = Algocasts
+	url = https://github.com/Safieddine90/Algocasts.git
